@@ -25,7 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Sydney Bailey is an accomplished engineering professional currently serving as Associate Director of Operations Excellence at RTX, where she leads Industry 4.0 Strategy and Transformation initiatives. With over 15 years of experience in software engineering, systems engineering, and digital operations transformation, she has consistently driven innovation and efficiency in complex technical environments.
+
+She holds a Bachelor of Science in Pure Mathematics from Southern Utah University, as well as master's degrees in Systems Engineering and Engineering Management. Her academic background, combined with her leadership in cutting-edge industrial transformation, reflects a strong commitment to continuous learning and impactful problem-solving.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
