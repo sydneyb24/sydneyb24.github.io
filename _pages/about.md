@@ -28,8 +28,3 @@ latest_posts:
 Sydney Bailey is an accomplished engineering professional currently serving as Associate Director of Operations Excellence at RTX, where she leads Industry 4.0 Strategy and Transformation initiatives. With over 15 years of experience in software engineering, systems engineering, and digital operations transformation, she has consistently driven innovation and efficiency in complex technical environments.
 
 She holds a Bachelor of Science in Pure Mathematics from Southern Utah University, as well as master's degrees in Systems Engineering and Engineering Management. Her academic background, combined with her leadership in cutting-edge industrial transformation, reflects a strong commitment to continuous learning and impactful problem-solving.
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
