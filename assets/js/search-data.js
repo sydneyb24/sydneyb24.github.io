@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dds-project-1",
+          title: 'DDS Project-1',
+          description: "Frito Lay Attrition Project for Doing Data Science",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project-1/";
             },},{
         id: 'social-email',
         title: 'email',
