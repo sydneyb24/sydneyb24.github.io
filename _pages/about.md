@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: To create an environment to promote the strengths of those around me while minimizing weaknesses. To make those around me feel safe and cared about to allow for innovation, growth, and open communication
 
 profile:
   align: right
