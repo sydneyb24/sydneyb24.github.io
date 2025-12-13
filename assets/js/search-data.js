@@ -407,6 +407,11 @@ ninja.data = [{
           description: "Frito Lay Attrition Project for Doing Data Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project-1/";
+            },},{id: "projects-dds-project-2",
+          title: 'DDS Project-2',
+          description: "Abalone Age Project for Doing Data Science",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project2/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
